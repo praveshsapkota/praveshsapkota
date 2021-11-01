@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👉, I'm Pravesh Sapkota</h1>
+<h1 align="center">Hi, I'm Pravesh Sapkota</h1>
 <h3 align="center">A developer from Nepal. Developing program and myself 🚀</h3>
 
 - 🔭 I’m currently working on [E-commerce platform](https://github.com/praveshsapkota/KtmSale-Backend)

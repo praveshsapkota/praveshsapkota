@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Pravesh Sapkota</h1>
 <h3 align="center">A developer from Nepal. Developing program and myself 🚀</h3>
 
-- 🔭 I’m currently working on [E-commerce platform](https://github.com/praveshsapkota/KtmSale-Backend)
+- 🔭 I’m currently working as a Backend engineer developing rest , graphql api's with relation databases .
 
-- 🌱 I’m currently learning **GraphQL , Pytorch**
+<!-- - 🌱 I’m currently learning **GraphQL , Pytorch** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

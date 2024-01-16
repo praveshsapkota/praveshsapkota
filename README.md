@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Pravesh Sapkota</h1>
-<h3 align="center">A developer from Nepal. Developing program and myself 🚀</h3>
+<h3 align="center">A Engineer from Nepal. Developing program and myself 🚀</h3>
 
-- 🔭 I’m currently working as a Backend engineer developing rest , graphql api's with relation databases .
+- 🔭 I’m currently working as a Backend engineer and in mean Time trying latest technology's .
 
-<!-- - 🌱 I’m currently learning **GraphQL , Pytorch** -->
+<!-- - 🌱 I’m currently learning **goLang , systemDesign** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

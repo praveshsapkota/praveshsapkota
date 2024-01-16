@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Backend engineer and in mean Time trying latest technology's .
 
-<!-- - 🌱 I’m currently learning **goLang , systemDesign** -->
+- 🌱 I’m currently learning **goLang , systemDesign** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
